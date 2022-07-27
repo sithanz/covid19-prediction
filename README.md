@@ -1,7 +1,7 @@
 # Predicting COVID-19 Disease Incidence using Time Series Forecasting
 
 The aim of this project is to design a deep learning model that is able to predict the number of new COVID-19 cases at a future point in time based on previous data.
-The data used in this project was provided by the Malaysian Ministry of Health as part of an intiative to provide open data in the fight against COVID-19.
+The data used in this project was provided by the Malaysian Ministry of Health as part of an open data intiative in the fight against COVID-19.
 
 ## Prerequisites
 
