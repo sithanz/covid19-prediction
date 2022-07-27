@@ -34,4 +34,8 @@ For a forecasting model, an MAPE value of less than 10 % is considered satisfact
 ## Credits
 
 Data : [Open data on COVID-19 in Malaysia](https://github.com/MoH-Malaysia/covid19-public)
- 
+
+## References
+1. [Measuring Forecasting Accuracy: Problems and Recommendations](https://www.researchgate.net/publication/282136084_Measuring_Forecasting_Accuracy_Problems_and_Recommendations_by_the_Example_of_SKU-Level_Judgmental_Adjustments)
+2. [Forecasting FAQ s - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119199885.app1)
+
