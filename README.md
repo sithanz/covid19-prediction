@@ -15,15 +15,21 @@ This script uses the following python libraries:
 ## Model Architecture
 The following figure shows the default model architecture used in the script.
 
-<img src="static/model.png" width="400">
+<img src="static/model_lstm.png" width="400">
 
 The training loss for this model as observed on TensorBoard can be seen in the figure below.
 
 ![TensorBoard](static/tensorboard.png)
 
-## Model Performance
+## Results
 
+The model was evaluated by visual comparison of predicted and actual number of cases.
 
+![Prediction plot](static/evaluation_graph.png)
+
+The mean absolute percentage error (MAPE) for this model was calculated, with a value of 0.085 (8.5%).
+
+For a forecasting model, an MAPE value of less than 10 % is considered satisfactory. However, the model performance might be improved further by increasing the amount of training data as the sample provided is quite small (n=680). 
 
 ## Credits
 
