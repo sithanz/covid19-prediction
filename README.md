@@ -21,6 +21,8 @@ The training loss for this model as observed on TensorBoard can be seen in the f
 
 ![TensorBoard](static/tensorboard.png)
 
+The optimum number of epochs was determined to be 400 as there was no discernible improvement in model performance when the epochs value was increased.
+
 ## Results
 
 The model was evaluated by visual comparison of predicted and actual number of cases.
